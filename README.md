@@ -1,1 +1,1 @@
-# MyProject
+This is demo repository
