@@ -5,3 +5,10 @@ public class Program
         System.Console.WriteLine("Hello, World!");
     }
 }
+class Program
+{
+    public static void Main(string[] args)
+    {
+        // Your code goes here
+    }
+}
