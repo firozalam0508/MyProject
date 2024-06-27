@@ -16,3 +16,12 @@ Console.WriteLine(sub);
 
 >>>>>>> Stashed changes
 
+
+
+int x = 5;
+int y = 6;
+int div= x / y;
+Console.WriteLine(div);
+
+
+
