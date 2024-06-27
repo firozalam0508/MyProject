@@ -1,3 +1,8 @@
 Hello this branch3
 
+<<<<<<< Updated upstream
 This is second stash code 
+=======
+This is stash
+again working on stash
+>>>>>>> Stashed changes
